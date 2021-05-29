@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naman Agrawal
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning how data transforms the business decisions.
+- 👀 I’m interested in Data Analytics and Data Science and have a couple of projects in same domain under my belt.
+- 🌱 I’m currently learning how data transform the business decisions.
 - 💞️ I’m looking to collaborate on social media platforms
 - 📫 How to reach me namanagrawal152@gmail.com
 
